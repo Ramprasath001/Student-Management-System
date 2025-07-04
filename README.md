@@ -15,7 +15,7 @@ cd student-management-system
 cd backend
 python app.py
 
-**## Run the Frontend (React App)**
+## Run the Frontend (React App)
 ```bash
 cd frontend
 npm install   # only the first time
